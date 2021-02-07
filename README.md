@@ -23,6 +23,4 @@ I currently looking for an end of year internship in France.
 
 ## Github statistics
 ![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=Romuald-auc&theme=dark)
-
-## Languages used
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Romuald-auc&theme=dark)
