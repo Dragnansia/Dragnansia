@@ -11,7 +11,7 @@ I currently looking for an end of year internship in France.
 ## Work environment
 ![Linux](https://img.shields.io/badge/Linux-distro-09814A?style=for-the-badge&logo=linux)
 [![Fedora](https://img.shields.io/badge/Fedora-09814A?style=for-the-badge&logo=fedora)](https://getfedora.org/fr/)
-[![Pop Os](https://img.shields.io/badge/Pop%20Os-09814A?style=for-the-badge&logo=pop!_os)](https://pop.system76.com/)
+[![Pop Os](https://img.shields.io/badge/Pop%20Os-09814A?style=for-the-badge&logo=system76)](https://pop.system76.com/)
 [![Pop Os](https://img.shields.io/badge/Manjaro-09814A?style=for-the-badge&logo=manjaro)](https://manjaro.org/)
 
 ![IDE](https://img.shields.io/badge/IDE-Text%20Editor-09814A?style=for-the-badge&logo=ide)
