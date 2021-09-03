@@ -1,5 +1,3 @@
-![Wolf and Open Source](assets/images/logo-loup-transparent-1300.png)
-
 Hi everyone, my name is Romuald and I am 20 years old👋
 ======
 
