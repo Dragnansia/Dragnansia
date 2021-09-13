@@ -1,16 +1,9 @@
-Hi everyone, my name is Romuald and I am 20 years old👋
+Hi everyone, my name is Romuald 👋
 ======
-
-## About me
-I am a 20 year old student who is passionate about what he does, what he learns and what he can pass on.  
-My hobbies are to improve my knowledge in subjects that I like and that I master whether it is in video games, reading or in movies and animated series.  
-I currently looking for an end of year internship in France.
 
 ## Work environment
 ![Linux](https://img.shields.io/badge/Linux-distro-09814A?style=for-the-badge&logo=linux)
-[![Fedora](https://img.shields.io/badge/Fedora-09814A?style=for-the-badge&logo=fedora)](https://getfedora.org/fr/)
 [![Pop Os](https://img.shields.io/badge/Pop%20Os-09814A?style=for-the-badge&logo=debian)](https://pop.system76.com/)
-[![Pop Os](https://img.shields.io/badge/Manjaro-09814A?style=for-the-badge&logo=manjaro)](https://manjaro.org/)
 
 ![IDE](https://img.shields.io/badge/IDE-Text%20Editor-09814A?style=for-the-badge&logo=ide)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-09814A?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/fr/)
