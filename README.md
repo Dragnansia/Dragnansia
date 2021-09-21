@@ -14,5 +14,5 @@ Hi everyone, my name is Romuald 👋
 [![Unreal](https://img.shields.io/badge/Unreal%20Engine-09814A?style=for-the-badge&logo=unreal-engine)](https://www.unrealengine.com/en-US/)
 
 ## Github statistics
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragnansia&theme=dark)
-![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=Dragnansia&theme=dark)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdAuc&theme=dark)
+![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=RomualdAuc&theme=dark)
