@@ -3,7 +3,7 @@ Hi everyone, my name is Romuald 👋
 
 ## Work environment
 ![Linux](https://img.shields.io/badge/Linux-distro-09814A?style=for-the-badge&logo=linux)
-[![Pop Os](https://img.shields.io/badge/Pop%20Os-09814A?style=for-the-badge&logo=debian)](https://pop.system76.com/)
+[![Fedora](https://img.shields.io/badge/Fedora-09814A?style=for-the-badge&logo=debian)](https://pop.system76.com/)
 
 ![IDE](https://img.shields.io/badge/IDE-Text%20Editor-09814A?style=for-the-badge&logo=ide)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-09814A?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/fr/)
