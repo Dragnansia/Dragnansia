@@ -1,6 +1,6 @@
 Hey, I'm Romuald 👋
 ======
-# I'm Game and software developer
+# I'm Game and software developer, and a Linux User
 
 ### Languages and Tools
 ![cpp](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)
