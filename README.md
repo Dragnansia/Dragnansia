@@ -1,5 +1,3 @@
-Hey, I'm Romuald 👋
-======
 # I'm Game and software developer, and a Linux User
 
 ### Languages and Tools
