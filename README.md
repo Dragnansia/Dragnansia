@@ -16,5 +16,5 @@
 ![vscode](https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png)
 
 ### Github statistics
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdAuc&theme=dark)
-![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=RomualdAuc&theme=dark)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragnansia&theme=dark)
+![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=Dragnansia&theme=dark)
