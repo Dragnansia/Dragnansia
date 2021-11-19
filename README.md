@@ -21,6 +21,6 @@
 ![Romuald-auc github stats](https://github-readme-stats.vercel.app/api?username=Dragnansia&theme=dark)
 
 ### Other project
-![ShadersBank-Unity](https://github.com/Louis-GRANGE/ShadersBank-Unity)
-![FootwAR](https://github.com/LPPromo2020/FootwAR)
-![BibHNCPD](https://github.com/RemyCrespe/BibHNCPD)
+![ShadersBank-Unity](https://github.com/Louis-GRANGE/ShadersBank-Unity)  
+![FootwAR](https://github.com/LPPromo2020/FootwAR)  
+![BibHNCPD](https://github.com/RemyCrespe/BibHNCPD)  
