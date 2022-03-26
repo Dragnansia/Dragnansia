@@ -12,7 +12,7 @@
     <br />
     <h2>Statistiques</h2>
     <p float="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dragnansia&show_icons=true&theme=tokyonight&hide_border=true" width="550px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dragnansia&show_icons=true&theme=tokyonight&hide_border=true" width="450px"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragnansia&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" width="350px"/>
     </p>
 </center>
