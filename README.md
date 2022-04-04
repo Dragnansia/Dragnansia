@@ -25,4 +25,11 @@
     </details>
 </center>
 
+<p align="center">
+    <samp>
+      <a href="https://discord.com/users/358303310597324800" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
+      <a href="mailto:romuald.auc.pro@protonmail.com" target="_blank"><img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-1E2130?style=for-the-badge&logo=protonmail&logoColor=white"></a></a>
+    </samp>
+</p>
+
 <!-- ![GRAPH](https://activity-graph.herokuapp.com/graph?username=Dragnansia&hide_border=true&theme=redical) -->
