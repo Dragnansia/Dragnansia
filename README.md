@@ -3,14 +3,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=16&color=000000&center=true&width=300&height=45&lines=I+code+program+like+programmer." />
     <details>
         <summary><strong>Tools</strong></summary>
-        <p float="left">
-            <img src="https://img.icons8.com/color/32/000000/git.png" style="margin-right:2px">
-            <img src="https://img.icons8.com/windows/32/4a90e2/fedora.png" style="margin-right:2px">
-            <img src="https://img.icons8.com/ios-filled/32/000000/unity.png" style="margin-right:2px">
-            <img src="https://img.icons8.com/color/32/000000/unreal-engine.png" style="margin-right:2px">
-            <img src="https://img.icons8.com/color/32/000000/visual-studio.png" style="margin-right:2px">
-            <img src="https://img.icons8.com/fluency/32/000000/visual-studio-code-2019.png">
-        </p>
+        <h2>Linux: Fedora - EndeavourOS</h2>
+        <ul>
+            <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a></li>
+            <li><a href="https://godotengine.org/">Godot</a> / <a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
+            <li><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></li>
+        </ul>
+        <h2>Windows</h2>
+        <ul>
+            <li><a href="https://code.visualstudio.com/">VSCode</a></li>
+            <li><a href="https://unity.com/">Unity</a> / <a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
+            <li><a href="https://hyper.is/">Hyper</a></li>
+        </ul>
+        <h2>Languages</h2>
+        <ul>
+            <li>Rust</li>
+            <li>C/C++</li>
+            <li>Rust</li>
+            <li>Javascript</li>
+            <li>Python</li>
+            <li>Go</li>
+        </ul>
     </details>
     <details>
         <summary><strong>Statistiques</strong></summary>
