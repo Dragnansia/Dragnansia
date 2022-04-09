@@ -13,7 +13,7 @@
             <li><a href="https://code.visualstudio.com/">VSCode</a> / <a href="https://www.jetbrains.com/">Jetbrains</a></li>
             <li><a href="https://hyper.is/">Hyper</a></li>
         </ul>
-        <h2>Hame Engine</h2>
+        <h2>Game Engine</h2>
         <ul>
             <li><a href="https://godotengine.org/">Godot</a></li>
             <li><a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
