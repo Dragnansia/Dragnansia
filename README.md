@@ -5,15 +5,19 @@
         <summary><strong>Tools</strong></summary>
         <h2>Linux: Fedora - EndeavourOS</h2>
         <ul>
-            <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a></li>
-            <li><a href="https://godotengine.org/">Godot</a> / <a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
+            <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a> / <a href="https://www.jetbrains.com/">Jetbrains</a></li>
             <li><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></li>
         </ul>
         <h2>Windows</h2>
         <ul>
-            <li><a href="https://code.visualstudio.com/">VSCode</a></li>
-            <li><a href="https://unity.com/">Unity</a> / <a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
+            <li><a href="https://code.visualstudio.com/">VSCode</a> / <a href="https://www.jetbrains.com/">Jetbrains</a></li>
             <li><a href="https://hyper.is/">Hyper</a></li>
+        </ul>
+        <h2>Hame Engine</h2>
+        <ul>
+            <li><a href="https://godotengine.org/">Godot</a></li>
+            <li><a href="https://www.unrealengine.com/">Unreal Engine 5</a></li>
+            <li><a href="https://unity.com/">Unity</a></li>
         </ul>
         <h2>Languages</h2>
         <ul>
