@@ -5,7 +5,7 @@
         <summary><strong>Tools</strong></summary>
         <h2>Linux: Fedora - EndeavourOS</h2>
         <ul>
-            <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a> / <a href="https://www.jetbrains.com/">Jetbrains</a></li>
+            <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a> / <a href="https://www.jetbrains.com/">Jetbrains</a> / <a href="https://code.visualstudio.com/">VSCode</a></li>
             <li><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></li>
         </ul>
         <h2>Windows</h2>
