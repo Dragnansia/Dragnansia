@@ -1,12 +1,12 @@
 <center>
-    <h1>I'm Game and software developer and Linux User</h1>
+    <h1>I'm Game, software developer and Linux User</h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=16&color=000000&center=true&width=300&height=45&lines=I+code+program+like+programmer." />
     <details>
         <summary><strong>Tools</strong></summary>
         <h2>Linux: Fedora - EndeavourOS</h2>
         <ul>
             <li><a href="https://neovim.io/">Neovim</a> / <a href="https://github.com/helix-editor/helix">Helix</a> / <a href="https://www.jetbrains.com/">Jetbrains</a> / <a href="https://code.visualstudio.com/">VSCode</a></li>
-            <li><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></li>
+            <li><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a> / <a href="https://alacritty.org/">Alacritty</a></li>
         </ul>
         <h2>Windows</h2>
         <ul>
