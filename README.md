@@ -23,7 +23,6 @@
         <ul>
             <li>Rust</li>
             <li>C/C++</li>
-            <li>Rust</li>
             <li>Javascript</li>
             <li>Python</li>
             <li>Go</li>
